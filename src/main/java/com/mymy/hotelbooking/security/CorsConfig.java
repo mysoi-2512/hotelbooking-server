@@ -24,7 +24,7 @@ public class CorsConfig {
 		CorsConfiguration corsConfig = new CorsConfiguration();
 		corsConfig.setAllowCredentials(true);
 		corsConfig.addAllowedOrigin("http://localhost:5173");
-		corsConfig.addAllowedOrigin("https://hotelbooking-themusclecat.vercel.app/");
+		corsConfig.addAllowedOrigin("https://hotelbooking-themusclecat.vercel.app");
 		corsConfig.setAllowedHeaders(Arrays.asList(
 				HttpHeaders.AUTHORIZATION,
 				HttpHeaders.CONTENT_TYPE,
