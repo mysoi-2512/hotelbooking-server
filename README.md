@@ -2,6 +2,10 @@
 
 Full stack Hotel Booking app with Spring, Spring Boot, Spring Securîty, ReactJS, MySQL
 
+## SQL Schema
+
+![](https://github.com/mysoi-2512/hotelbooking-server/blob/main/GIFs%20for%20Readme/HotelBooking.png)
+
 
 ## Features
 
