@@ -3,8 +3,6 @@ package com.mymy.hotelbooking.model;
 import java.util.Collection;
 import java.util.HashSet;
 
-import com.mymy.hotelbooking.response.ProfileResponse;
-
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
